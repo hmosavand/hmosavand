@@ -4,7 +4,7 @@ I'm a dedicated Java programmer proficient in the Spring Boot framework and Andr
 
 # Files
 
-All files here are my journey of be programmer and learning and i put here that maybe be good things for other to help them in this way and now I fill I am in the primary step of this journey.
+All files here are my journey of be programmer and learning and I put here that maybe be good things for other to help them in this way.
 
 good lock
 # lists
